@@ -15,8 +15,10 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [See in Frontend Mentor](https://www.frontendmentor.io/solutions/four-cards-in-react-css-grids-SBa1yiUrt4)
-- Live Site URL: [Hosted on Vercel](https://fm-four-cards-livid.vercel.app/)
+- Solution URL: [See in Frontend Mentor](https://www.frontendmentor.io/solutions/testimonial-grid-in-react-eIjOR_GHNg
+
+)
+- Live Site URL: [Hosted on Vercel](https://fm-testimonial-grid-kappa.vercel.app/)
 
 ## My process
 
